@@ -7,8 +7,8 @@
 </h3>
 
 #
-<p align="left">
-estudante de Análise e Desenvolvimento de Sistemas na UNICID, com ênfase em desenvolvimento full stack, com conhecimentos em JavaScript, C, HTML e CSS, adquiridos em projetos acadêmicos, buscando estágio para aplicar e desenvolver competências técnicas em soluções front-end e back-end.
+<p align="left"><h3 align="LEFT">Sobre mim</h3>
+"Estudante de Análise e Desenvolvimento de Sistemas na UNICID, com ênfase em desenvolvimento full stack, com conhecimentos em JavaScript, C, HTML e CSS, adquiridos em projetos acadêmicos, buscando estágio para aplicar e desenvolver competências técnicas em soluções front-end e back-end."
 
 
 #
