@@ -62,5 +62,10 @@ estudante de Análise e Desenvolvimento de Sistemas na UNICID, com ênfase em de
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/valdeir786/valdeir786/pacman-output/pacman-contribution-graph.svg?game=pacman">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/valdeir786/valdeir786/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
+#
 
 ###
+<p align="center">
+<i>"Transformando requisitos em código com análise, precisão e uma pitada de criatividade".</i>
+</p>
+
