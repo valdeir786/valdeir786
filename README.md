@@ -1,6 +1,5 @@
 # Valdeir 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Anton&color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=++Bem++Vindo,+ao+Meu+Perfil!++)](https://git.io/typing-svg)
-#
 <p align="center">
   <img src=".github/saved-image-file_000000005404820e85431adcf65724fb.jpg" />
 </p>
