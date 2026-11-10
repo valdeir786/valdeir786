@@ -25,8 +25,8 @@
   height="30"
 />
   <img
-  src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/c/default.svg"
-  alt="C"
+  src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/cplusplus/default.svg"
+  alt="C++"
   width="30"
   height="30"
 />
